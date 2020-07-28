@@ -1,5 +1,5 @@
 # line-chart
-Line-chart has JavaScript code for the display of http get response times in milliseconds
+Line-chart is basically some JavaScript code for the display of http get response times in milliseconds
 
 # line-chart is meant to be used with [cutemp](http://github.com/rm511130/cutemp)
 
