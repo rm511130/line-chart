@@ -13,7 +13,7 @@ The code simply executes an HTTP GET on `https://cutemp.apps.ourpcf.com` which i
 
 ![](./cutemp.png)
 
-When used in conjunction with Line-chart, you get a dynamically updated Line-chart of the HTTP GET response time for `http://user1-fact.apps.ourpcf.com/10000` or any other URL you care to place after `https://cutemp.apps.ourpcf.com/`
+When [cutemp](http://github.com/rm511130/cutemp) is used in conjunction with Line-chart, you get a dynamically updated Line-chart of the HTTP GET response time for `http://user1-fact.apps.ourpcf.com/10000` or any other URL you care to place after `https://cutemp.apps.ourpcf.com/`
 
 ![](./line-chart.png)
 
