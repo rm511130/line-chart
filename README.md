@@ -1,7 +1,7 @@
 # line-chart
 Line-chart has JavaScript code for the display of http get response times in milliseconds
 
-# line-chart is meant to be used with http://github.com/rm511130/cutemp
+# line-chart is meant to be used with [cutemp](http://github.com/rm511130/cutemp)
 
 Line-chart's `index.php` file contains two identical lines that look like this:
 
